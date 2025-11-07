@@ -1,4 +1,31 @@
 h1 {
     border-bottom: 1px solid grey;
     padding-bottom: 0.5em;
+    font-family: 'Linux Libertine', 'Georgia', 'Times', 'Source Serif 4', serif;
+    max-width: 800px;
+    margin: auto;
+}
+h2 {
+    font-family: 'Linux Libertine', 'Georgia', 'Times', 'Source Serif 4', serif;
+    margin-top: 1.4em;
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid grey;
+}
+p {
+    font-family: sans-serif;
+    line-height: 1.5;
+}
+main {
+    max-width: 800px;
+    margin: auto;
+    padding: 1em;
+}
+.type0 p {
+    text-indent: 1.5em;
+}
+.type1 p {
+    padding-left: 1.5em;
+}
+.type2 p {
+    padding-left: 1.5em;
 }
